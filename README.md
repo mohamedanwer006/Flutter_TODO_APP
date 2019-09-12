@@ -9,8 +9,17 @@ Simple Todo :-
 - Dark Mode
 - Light Mode
 - Save Data local using Sqflit
-  
 
+<!-- ![screenshot](screenshot/Screenshot_1.png)   -->
+<p align="center">
+  <img src="screenshot/Screenshot_3.png" width="350" title="Main Screen">
+
+  <img src="screenshot/Screenshot_2.png" width="350" title="Main Screen in dark">
+
+ <img src="screenshot/Screenshot_4.png" width="350" title="Add TODO">
+ 
+  <img src="screenshot/Screenshot_5.png" width="350" title="main screen in dark">
+</p>
 
 ## Getting Started
 
